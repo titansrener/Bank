@@ -1,0 +1,8 @@
+C:\Users\titan\source\repos\BANCO\BANCO.Core\bin\Debug\netcoreapp3.1\BANCO.Core.deps.json
+C:\Users\titan\source\repos\BANCO\BANCO.Core\bin\Debug\netcoreapp3.1\BANCO.Core.dll
+C:\Users\titan\source\repos\BANCO\BANCO.Core\bin\Debug\netcoreapp3.1\BANCO.Core.pdb
+C:\Users\titan\source\repos\BANCO\BANCO.Core\obj\Debug\netcoreapp3.1\BANCO.Core.AssemblyInfoInputs.cache
+C:\Users\titan\source\repos\BANCO\BANCO.Core\obj\Debug\netcoreapp3.1\BANCO.Core.AssemblyInfo.cs
+C:\Users\titan\source\repos\BANCO\BANCO.Core\obj\Debug\netcoreapp3.1\BANCO.Core.csproj.CoreCompileInputs.cache
+C:\Users\titan\source\repos\BANCO\BANCO.Core\obj\Debug\netcoreapp3.1\BANCO.Core.dll
+C:\Users\titan\source\repos\BANCO\BANCO.Core\obj\Debug\netcoreapp3.1\BANCO.Core.pdb

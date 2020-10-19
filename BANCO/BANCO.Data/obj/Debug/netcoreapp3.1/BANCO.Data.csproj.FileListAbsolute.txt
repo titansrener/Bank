@@ -1,0 +1,15 @@
+C:\Users\titan\source\repos\BANCO\BANCO.Data\bin\Debug\netcoreapp3.1\BANCO.Data.deps.json
+C:\Users\titan\source\repos\BANCO\BANCO.Data\bin\Debug\netcoreapp3.1\BANCO.Data.dll
+C:\Users\titan\source\repos\BANCO\BANCO.Data\bin\Debug\netcoreapp3.1\BANCO.Data.pdb
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.csprojAssemblyReference.cache
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.AssemblyInfoInputs.cache
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.AssemblyInfo.cs
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.dll
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.pdb
+C:\Users\titan\source\repos\BANCO\BANCO.Data\bin\Debug\netcoreapp3.1\BANCO.Core.dll
+C:\Users\titan\source\repos\BANCO\BANCO.Data\bin\Debug\netcoreapp3.1\BANCO.Core.pdb
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.csproj.CopyComplete
+C:\Users\titan\source\repos\BANCO\BANCO.Data\bin\Debug\netcoreapp3.1\BANCO.Data.runtimeconfig.json
+C:\Users\titan\source\repos\BANCO\BANCO.Data\bin\Debug\netcoreapp3.1\BANCO.Data.runtimeconfig.dev.json
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.genruntimeconfig.cache
+C:\Users\titan\source\repos\BANCO\BANCO.Data\obj\Debug\netcoreapp3.1\BANCO.Data.csproj.CoreCompileInputs.cache

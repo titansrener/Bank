@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BANCO.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:BANCO.WebApi.Controllers.ContasController.GetContaAsync(System.String,System.String)">
+            <summary>
+            Consulta uma conta conforme parâmetros passados
+            </summary>
+            <param name="numeroConta">Número da conta.</param>
+            <param name="nomeBanco">Nome do banco.</param>
+            <returns></returns>
+        </member>
+        <member name="M:BANCO.WebApi.Controllers.ContasController.SacarAsync(System.String,System.String,System.Decimal)">
+            <summary>
+            Efetua um saque na conta e banco passados.
+            </summary>
+            <param name="numeroConta">Número da conta onde será feito o saque.</param>
+            <param name="nomeBanco">Nome do banco.</param>
+            <param name="valorSaque">Valor a ser sacado.</param>
+            <returns></returns>
+        </member>
+        <member name="M:BANCO.WebApi.Controllers.ContasController.DepositarAsync(System.String,System.String,System.Decimal)">
+            <summary>
+            Efetua um depósito na conta e banco passados.
+            </summary>
+            <param name="numeroConta">Número da conta onde será feito o saque.</param>
+            <param name="nomeBanco">Nome do banco.</param>
+            <param name="valorDeposito">Valor a ser depositado.</param>
+            <returns></returns>
+        </member>
+        <member name="M:BANCO.WebApi.Controllers.ContasController.TransferirAsync(System.String,System.String,System.String,System.String,System.Decimal)">
+            <summary>
+            Transferir valores entre contas
+            </summary>
+            <param name="numeroContaOrigem"></param>
+            <param name="nomeBancoOrigem"></param>
+            <param name="numeroContaDestino"></param>
+            <param name="nomeBancoDestino"></param>
+            <param name="valorTransferir"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BANCO.WebApi.Controllers.ContasController.CadastararConta(BANCO.Core.ModelView.ContaView)">
+            <summary>
+             Cadastra uma nova conta
+            </summary>
+             <param name="conta">Objeto Conta</param>
+        </member>
+    </members>
+</doc>
